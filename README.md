@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Carlos Moreno</h1>
 <h3 align="center">Estou me especializando em Análise e Ciência de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **SQL, Oracle, Python, R, Machine Learning, Microsoft Power BI, Google Data Studio**
+- 🌱 Atualmente estou aprendendo **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio**
 
-- 💬 Me pergunte sobre **SQL, Oracle, Python, R, Machine Learning, Microsoft Power BI, Google Data Studio, e Excel**
+- 💬 Me pergunte sobre **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, e Excel**
 
 - 📫 Você me acha através do e-mail **morenopinoza@gmail.com**
 

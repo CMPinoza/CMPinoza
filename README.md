@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carlos Moreno</h1>
+<h1 align="center">Hi, I'm Carlos Moreno 👋 </h1>
 <h3 align="center">I am currently specializing in Analysis / Data Science </h3>
 
 - 🌱 I'm studying Big Data and Analytical Intelligence. And specializing in some courses focusing on:: **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, Excel**

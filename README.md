@@ -1,13 +1,13 @@
-<h1 align="center">Oi 👋, Eu sou o Carlos Moreno</h1>
-<h3 align="center">Estou me especializando em Análise e Ciência de Dados</h3>
+<h1 align="center">Hi, I'm Carlos Moreno</h1>
+<h3 align="center">I am currently specializing in Analysis / Data Science </h3>
 
-- 🌱 Atualmente estou aprendendo **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio**
+- 🌱 I'm studying Big Data and Analytical Intelligence. And specializing in some courses focusing on:: **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, Excel**
 
-- 💬 Me pergunte sobre **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, e Excel**
+- 💬 Ask me about **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, e Excel**
 
-- 📫 Você me acha através do e-mail **morenopinoza@gmail.com**
+- 📫 You can contact me via email: **morenopinoza@gmail.com**
 
-- Fui fundada por Carlos Moreno e aqui estão as habilidades que me criaram [https://www.linkedin.com/in/carlosmppinoza](https://www.linkedin.com/in/carlosmppinoza)
+- I was founded by Carlos Moreno and here are the skills that made me: [https://www.linkedin.com/in/carlosmppinoza](https://www.linkedin.com/in/carlosmppinoza)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

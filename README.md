@@ -3,7 +3,7 @@
 
 - 🌱 I'm studying Big Data and Analytical Intelligence. And specializing in some courses focusing on:: **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, Excel**
 
-- 💬 Ask me about **SQL, Oracle, Python, R, C#, Machine Learning, Microsoft Power BI, Google Data Studio, e Excel**
+- 💬 Ask me about **Power BI, SQL, MongoDB, Oracle, Python, R, C#, Machine Learning**
 
 - 📫 You can contact me via email: **morenopinoza@gmail.com**
 
